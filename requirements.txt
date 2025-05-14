@@ -1,3 +1,4 @@
 openai
 SpeechRecognition
 sentence-transformers
+dotenv
